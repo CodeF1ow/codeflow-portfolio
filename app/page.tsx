@@ -7,7 +7,7 @@ export default function Home() {
       <TransicionPage />
       <div className="flex min-h-[100vh] h-full bg-no-repeat bg-gradient-cover">
         <CoverParticles />
-        <p>CodeFlow | Portfolio</p>
+        {/*<p>CodeFlow | Portfolio</p>*/}
       </div>
     </main>
   );
