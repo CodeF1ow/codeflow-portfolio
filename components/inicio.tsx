@@ -48,8 +48,8 @@ const Inicio = () => {
               Ver Proyectos
             </Link>
             <Link
-              href="/proyectos"
-              className="px-3 py-2 my-2 transition-all border-2 cursor-pointer text-secondary border-secondary text-md w-fit rounded-xl hover:shadow-xl hover:shadow-white/50"
+              href="/contacto"
+              className="px-3 py-2 my-2 transition-all border-2 cursor-pointer text-secondary border-secondary text-md w-fit rounded-xl hover:shadow-xl hover:shadow-secondary"
             >
               Contacta conmigo
             </Link>

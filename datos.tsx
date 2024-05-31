@@ -32,7 +32,7 @@ export const socialNetworks = [
 export const itemsNavbar = [
     {
         id: 1,
-        title: "Home",
+        title: "inicio",
         icon: <HomeIcon size={25} color="#fff" strokeWidth={1} />,
         link: "/",
     },
@@ -40,13 +40,13 @@ export const itemsNavbar = [
         id: 2,
         title: "User",
         icon: <UserRound size={25} color="#fff" strokeWidth={1} />,
-        link: "/about-me",
+        link: "/sobre-mi",
     },
     {
         id: 3,
         title: "Book",
         icon: <BookText size={25} color="#fff" strokeWidth={1} />,
-        link: "/services",
+        link: "/servicios",
     },
     {
         id: 4,
