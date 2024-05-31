@@ -36,7 +36,7 @@ const Inicio = () => {
             />
           </h1>
           <p className="mx-auto mb-2 text-xl md:mx-0 md:mb-8">
-            Como desarrollador frontend y creador de contenido, me dedico a
+            Como desarrollador frontend, me dedico a
             combinar diseño y funcionalidad para crear experiencias digitales
             impactantes y accesibles.
           </p>
