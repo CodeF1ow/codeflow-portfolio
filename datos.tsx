@@ -4,7 +4,7 @@ export const socialNetworks = [
     {
         id: 1,
         logo: <Youtube size={30} strokeWidth={1} />,
-        src: "#!",
+        src: "https://www.youtube.com/channel/UCN6ydnskxN9b47zPDL6rVVQ",
     },
     {
         id: 2,
@@ -14,17 +14,12 @@ export const socialNetworks = [
     {
         id: 3,
         logo: <Twitter size={30} strokeWidth={1} />,
-        src: "#!",
+        src: "https://x.com/CodeF1ow",
     },
     {
         id: 4,
-        logo: <Rss size={30} strokeWidth={1} />,
-        src: "#!",
-    },
-    {
-        id: 5,
         logo: <Twitch size={30} strokeWidth={1} />,
-        src: "#!",
+        src: "https://www.twitch.tv/codefiow",
     },
 ];
 
@@ -58,7 +53,7 @@ export const itemsNavbar = [
         id: 5,
         title: "Home",
         icon: <Speech size={25} color="#fff" strokeWidth={1} />,
-        link: "/testimonials",
+        link: "/testimonios",
     },
 ];
 
