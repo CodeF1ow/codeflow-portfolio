@@ -9,8 +9,8 @@ const config: Config = {
   theme: {
     extend: {
       colors: {
-        secondary: "#FDDA0D",
-        darkBg: "#131424",
+        secondary: "#e77b00",
+        darkBg: "#023020",
       },
       backgroundImage: {
         "gradient-cover": 

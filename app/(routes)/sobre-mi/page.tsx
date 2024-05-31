@@ -1,6 +1,7 @@
 import Avatar from "@/components/avatar";
 import ContadorServicios from "@/components/contador-servicios";
 import Contenedor from "@/components/contenedor";
+import LineaTiempo from "@/components/linea-tiempo";
 import TransicionPage from "@/components/transiciones-page";
 
 const SobreMi = () => {
@@ -13,6 +14,7 @@ const SobreMi = () => {
                     <span className="font-bold text-secondary">trayectoria profesional</span>
                 </h1>
                 <ContadorServicios />
+                <LineaTiempo />
             </Contenedor>
         </>
      );

@@ -1,8 +1,12 @@
+import CirculoImagen from "@/components/circulo-imagen";
+import TransitionPage from "@/components/transiciones-page";
+
 const Servcios = () => {
     return ( 
-        <div>
-            <p>Servicios</p>
-        </div>
+        <>
+           <TransitionPage />
+           <CirculoImagen />
+        </>
      );
 }
  
