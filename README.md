@@ -18,7 +18,7 @@ Este es un portfolio de código abierto, donde muestro mis habilidades con **Nex
 
 
 
-**Ejecutando la Aplicación React**
+**Ejecutando la Aplicación**
 -------------------------------
 
 1. Clona el repositorio: `git clone https://github.com/CodeF1ow/codeflow-portfolio.git`
