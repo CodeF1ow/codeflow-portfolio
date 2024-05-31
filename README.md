@@ -1,36 +1,44 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+# Portfolio de Código Abierto 🚀
 
-## Getting Started
+**Preview**
+------------------------
 
-First, run the development server:
+![Portfolio Image](https://i.imgur.com/MvF894k.png)
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+**Bienvenido**
+----------------
+Este es un portfolio de código abierto, donde muestro mis habilidades con **Next.js**, **Tailwind CSS** y **Framer Motion**.
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+* [Demo](https://flowportfolio.netlify.app/)
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+**Enlace del Repositorio**
+-------------------------
 
-This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-optimization) to automatically optimize and load Inter, a custom Google Font.
+* [GitHib](https://github.com/CodeF1ow/codeflow-portfolio)
 
-## Learn More
 
-To learn more about Next.js, take a look at the following resources:
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+**Ejecutando la Aplicación React**
+-------------------------------
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
+1. Clona el repositorio: `git clone https://github.com/CodeF1ow/codeflow-portfolio.git`
+2. Instala las dependencias: `pnpm install`
+3. Inicia la aplicación: `pnpm run dev`
+4. Abre el navegador y ve a [http://localhost:3000](http://localhost:3000)
 
-## Deploy on Vercel
+**Contacto**
+----------
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+* Correo electrónico: [email](contacto@codef1ow.es)
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+¡Espero que disfrutes explorando mi portfolio! 😊
+
+**Colabora**
+-------------------------
+
+Estamos emocionados por trabajar contigo en este proyecto. Si tienes alguna pregunta o idea sobre cómo mejorar el código, no dudes en hacernos saber. Puedes contactarnos a través del correo electrónico [email](contacto@codef1ow.es) o creando un nuevo issue en GitHub.
+ 
+**Licencia**
+------------
+
+Este proyecto está bajo licencia MIT, lo que significa que puedes usar, modificar y compartir el código de manera gratuita.

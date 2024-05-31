@@ -16,7 +16,7 @@ const urbanist = Urbanist({ subsets: ["latin"] });
 
 export const metadata: Metadata = {
   title: "CodeFlow | Portfolio",
-  description: "Portfolio creado por CodeFlow con Next.js, React y Tailwind CSS",
+  description: "Portfolio creado por CodeFlow con Next.js, Tailwind CSS y Framer Motion",
 };
 
 export default function RootLayout({
